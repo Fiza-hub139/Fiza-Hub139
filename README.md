@@ -1,4 +1,4 @@
-![Alt text](banner(2).png)
+![Alt text]([banner(2).png](https://github.com/Fiza-hub139/Fiza-Hub139/blob/1ee00368ad2f9c823da323571557739ede2dd1de/banner%20(2).png))
 
 
 Hello, I’m Fiza👋

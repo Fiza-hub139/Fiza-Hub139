@@ -1,7 +1,6 @@
-![Alt text](banner-image.png)
+![Alt text](banner (2).png)
 
----
----
+
 Hello, I’m Fiza👋
 
 I am a passionate developer focused on building functional, logic-driven applications and clean, user-centric web experiences. I love taking ideas and turning them into reality through code, balancing strong backend logic with engaging frontend design. 
